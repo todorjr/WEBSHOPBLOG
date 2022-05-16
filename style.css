@@ -125,6 +125,7 @@ footer {
   flex-direction: row;
   width: 100%;
   padding: 20px;
+  justify-content: space-evenly;
 }
 .adress-list-footer {
   color: white;
